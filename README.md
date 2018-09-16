@@ -1,1 +1,1 @@
-# My projects work with T
+# My projects work with Theano
