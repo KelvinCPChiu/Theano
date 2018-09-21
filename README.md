@@ -1,1 +1,1 @@
-# My projects work with Theano
+# Projects coding with Theano
